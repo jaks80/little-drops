@@ -1,2 +1,7 @@
-# little-drops
-Little Drops
+## About Little Drops
+
+Little Drops app concept has been born out of a series of design workshops with the participation of these industry partners as well as a few parents of young children. The app aims to facilitate the creative process of oral storytelling at home by providing a ‘story template’ and visual ‘prompts’ as supportive structure. Parents, children and their extended family can collect photographs from their everyday lives. Collated in a gallery accessible to the parent and child, these photographs can provide later inspiration by serving as ‘prompts’ to crafting a new story. Prompts are in turn utilized to populate ‘story templates’, which are based on spines of different story genres. Each spine is made out of blocks that support the story sequence allowing the parent and child to keep a cohesive narrative in their story. They also have the facility to record each story as it is told, allowing the parent to build a rich repository of the moments they shared with their children supporting reminiscence.
+
+### Little Drops is part of the DROPS project.
+
+The DROPS project investigates the technology, business, economic and legal models of personalization in a decentralized data economy through the creation of ThingBox. As a cloud-enabled space, ThingBox provides for a collaborative personalization space for HAT owners and organizations to come together with their own data to create highly personalized experiences with equitable benefits to both. DROPS project is specifically working with children’s publishers for e-books as the first ‘Thing’ in the ThingBox.
